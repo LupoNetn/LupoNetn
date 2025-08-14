@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://via.placeholder.com/1200x250.png?text=Engineering+the+Future+of+Software)
+
 
 # 👋 Hi, I’m Daniel Lupo  
 
