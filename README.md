@@ -1,21 +1,25 @@
 # Daniel Lupo
 
-Backend-leaning Software Engineer focused on building reliable systems that scale.
+Software Engineer building scalable backend systems and production-grade APIs.
 
-I care about clean design, predictable behavior, and software that holds up in production — not just in demos.
+I focus on reliability, performance, and writing software that survives real usage — not just happy-path demos.
 
 ---
 
-## What I Do
+## Focus
 
-- Design and build scalable backend services  
-- Ship well-structured APIs  
-- Think in systems, not endpoints  
-- Write maintainable code teams can extend  
+I work across backend and product systems with emphasis on:
 
-Comfortable working across product and infrastructure layers.
+- API architecture
+- System reliability
+- Scalable service design
+- Maintainable codebases
 
-Easy to collaborate with. Low ego. High ownership.
+Currently building **Paycore** — a fintech simulation engine for modeling and testing financial transaction flows in controlled environments.
+
+I enjoy solving hard problems and making systems behave predictably under load.
+
+Collaborative, ownership-driven, and comfortable in fast-moving teams.
 
 ---
 
@@ -31,7 +35,7 @@ Easy to collaborate with. Low ego. High ownership.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/API%20Design-4A90E2)
 ![Auth Systems](https://img.shields.io/badge/Auth-6C63FF)
-![Background Jobs](https://img.shields.io/badge/Async%20Jobs-F59E0B)
+![Background Jobs](https://img.shields.io/badge/Async%20Processing-F59E0B)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -42,31 +46,33 @@ Easy to collaborate with. Low ego. High ownership.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-### Tools
+### Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## Engineering Approach
+## Working Style
 
-- Build for scale from day one  
-- Prefer simplicity over cleverness  
-- Optimize for clarity and longevity  
-- Ship solutions teams can trust  
+- Bias toward simplicity  
+- Build for scale early  
+- Optimize for clarity over cleverness  
+- Communicate clearly and ship consistently  
 
-I take ownership, communicate clearly, and work well in fast-moving environments.
+Low drama. High output.
 
 ---
 
-## GitHub
+## GitHub Activity
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luponetn&show_icons=true&theme=radical&cache_seconds=1800)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luponetn&layout=compact&theme=radical&cache_seconds=1800)  
-![GitHub Streak](https://streak-stats.demolab.com?user=luponetn&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=luponetn&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luponetn&theme=react-dark)
 
 ---
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/daniel-lupo-o)
+![Profile Views](https://komarev.com/ghpvc/?username=luponetn&color=blue)
